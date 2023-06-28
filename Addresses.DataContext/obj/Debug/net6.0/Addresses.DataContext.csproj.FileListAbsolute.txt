@@ -1,0 +1,28 @@
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.deps.json
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.dll
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.pdb
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.csproj.AssemblyReference.cache
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.AssemblyInfoInputs.cache
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.AssemblyInfo.cs
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.csproj.CoreCompileInputs.cache
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.dll
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\refint\Addresses.DataContext.dll
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.pdb
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\ref\Addresses.DataContext.dll
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.runtimeconfig.json
+C:\Andrej\Personal\Addresses App\Addresses App\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.genruntimeconfig.cache
+C:\Andrej\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.deps.json
+C:\Andrej\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.runtimeconfig.json
+C:\Andrej\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.dll
+C:\Andrej\AddressesApp\Addresses.DataContext\bin\Debug\net6.0\Addresses.DataContext.pdb
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.csproj.AssemblyReference.cache
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.AssemblyInfoInputs.cache
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.AssemblyInfo.cs
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.csproj.CoreCompileInputs.cache
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.dll
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\refint\Addresses.DataContext.dll
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.pdb
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\Addresses.DataContext.genruntimeconfig.cache
+C:\Andrej\AddressesApp\Addresses.DataContext\obj\Debug\net6.0\ref\Addresses.DataContext.dll
