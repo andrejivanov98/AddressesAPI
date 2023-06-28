@@ -28,5 +28,14 @@ This provides a user-friendly way to interact with the API, and you can use it t
 - DELETE /addresses/{id}: Deletes the address with the specified ID.
 - GET /addresses/{id1}/{id2}/distance: Returns the distance (in kilometers) between the two addresses with the specified IDs.
 
+# Proud of:
+1. Clean Architecture: The project is structured following the Clean Architecture principles. This approach separates concerns and makes the codebase easier to maintain and evolve over time. It makes the solution more scalable.
+2. Error Handling: The project includes comprehensive error handling. This allows for better debugging and helps to provide clear information on what went wrong when an error occurs.
+3. Using CQRS pattern: A pattern that separates read and update operations for a data store. Implementing CQRS in the application can maximize its performance, scalability, and security.
+
+# Less satisfied with:
+1. Error Messaging: Currently, the error messages are somewhat generic, mostly because of the error handling on low level in the repositories. It can be good things to catch them in the repository, but that makes them more generic, as if the application scale in future it will not be so clear for the user. There could be way to make more strict error messages, but we should complicate things a little bit. Anyway, there is error handling on each layer, so, if some error is not catched in the repository will be catched in the service layer or in the controller where the message will be more strict.
+2. Geolocation Accuracy: There's a discrepancy between the distances calculated by the application and the distances provided by other mapping services like Google Maps. This is due to using a simplified model of the Earth for the distance calculations, where it calculates the distance in a straight line, not as Google Maps by finding the best route. I wanted to use Google Maps API for better accuracy, but had some issues with billing accounts while registering the API key and enabling the Geocoding API and that is why I used Nominatim API instead.
+
 # Contact
 For any further questions, you can reach me at ivanovandrej10@yahoo.com.
