@@ -36,6 +36,3 @@ This provides a user-friendly way to interact with the API, and you can use it t
 # Less satisfied with:
 1. Error Messaging: Currently, the error messages are somewhat generic, mostly because of the error handling on low level in the repositories. It can be good things to catch them in the repository, but that makes them more generic, as if the application scale in future it will not be so clear for the user. There could be way to make more strict error messages, but we should complicate things a little bit. Anyway, there is error handling on each layer, so, if some error is not catched in the repository will be catched in the service layer or in the controller where the message will be more strict.
 2. Geolocation Accuracy: There's a discrepancy between the distances calculated by the application and the distances provided by other mapping services like Google Maps. This is due to using a simplified model of the Earth for the distance calculations, where it calculates the distance in a straight line, not as Google Maps by finding the best route. I wanted to use Google Maps API for better accuracy, but had some issues with billing accounts while registering the API key and enabling the Geocoding API and that is why I used Nominatim API instead.
-
-# Contact
-For any further questions, you can reach me at ivanovandrej10@yahoo.com.
